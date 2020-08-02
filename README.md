@@ -1,24 +1,35 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Finance Tracker
 
-Things you may want to cover:
+Under development
 
-* Ruby version
+# Features
 
-* System dependencies
+- To track daily stock rate changes
 
-* Configuration
+# Technologies
 
-* Database creation
+- Ruby on Rails
 
-* Database initialization
+# Setup
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+# Live Demo
 
-* Deployment instructions
+# Screen Shots
 
-* ...
+
+# Contribute
+Feel free to contribute if you want to make it better.
+
+# Author
+* [Rajasekhar K ](https://github.com/IBTechRaj)
+
+Github: https://github.com/IBTechRaj
+* Email : krs30018@gmail.com 
+* raj_shk@rediffmail.com
+
+# Follow Me
+
+* [LinkedIn](https://www.linkedin.com/in/rajkatakamsetty/)
+* [Twitter](https://twitter.com/IBTechRaj)
